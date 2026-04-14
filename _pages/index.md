@@ -4,7 +4,9 @@ author: default
 permalink: /
 ---
 
-# 広島
+# About my friends
+##　原田蒼士
+He likes playing games and eating food so much.
 
 
 
