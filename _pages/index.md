@@ -4,11 +4,21 @@ author: default
 permalink: /
 ---
 
-# About aşkim
+# 蒼士
 
-## Things she likes
 
-・
+# Games
+
+Apex Legends
+Splatoon
+
+# Favorite Youtube channel
+
+**RonRon**
+**Wakatte**
+
+# Favorite food
+He loves ramen and his mother's food
 
 
 
