@@ -4,9 +4,11 @@ author: default
 permalink: /
 ---
 
-# About me
+# About aşkim
 
-## Hobby
+## Things she likes
+
+・
 
 
 
